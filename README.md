@@ -2,7 +2,10 @@
 
 A responsive personal finance dashboard built with **React + Vite + Tailwind CSS**. It includes a protected login screen, dark/light theme, and tabbed views for dashboard metrics, transactions, and insights.
 
----<img width="1364" height="603" alt="Screenshot 2026-04-24 125621" src="https://github.com/user-attachments/assets/93c01b49-bbf0-4f14-9d53-08333f37d408" />
+<img width="1365" height="602" alt="Screenshot 2026-04-24 130502" src="https://github.com/user-attachments/assets/28f3e342-dff1-4014-922f-208f1c5edcb7" />
+
+
+
 
 
 ## Table of Contents
