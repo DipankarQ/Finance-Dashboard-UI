@@ -6,8 +6,6 @@ A responsive personal finance dashboard built with **React + Vite + Tailwind CSS
 
 
 
-
-
 ## Table of Contents
 
 - [Overview](#overview)
