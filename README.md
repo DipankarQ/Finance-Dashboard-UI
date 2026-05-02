@@ -5,7 +5,6 @@ A responsive personal finance dashboard built with **React + Vite + Tailwind CSS
 <img width="1365" height="602" alt="Screenshot 2026-04-24 130502" src="https://github.com/user-attachments/assets/28f3e342-dff1-4014-922f-208f1c5edcb7" />
 
 
-
 ## Table of Contents
 
 - [Overview](#overview)
